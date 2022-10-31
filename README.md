@@ -3,6 +3,5 @@ Hi there 👋
 I'm Ibrahim Salah
 _________________________________________________________________________________________________________________________________________________________________________
 
--🔭 I’m currently working Software Engineering Intern
+-🔭 Self Studying Front-end developer
 
-🌱 I’m currently learning Web developer.
