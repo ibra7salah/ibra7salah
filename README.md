@@ -4,6 +4,6 @@
 # I'm Ibrahim Salah
 _________________________________________________________________________________________________________________________________________________________________________
 
-Self Studying Front-end developer
+Software trainee at almadrasa
 
 ![visitors badge](https://visitor-badge.laobi.icu/badge?page_id=Ibrahim0Salah.visitor-badge)
