@@ -3,13 +3,13 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There+%F0%9F%91%8B;I+am+Ibrahim+Salah;Nice+to+meet+you+😊&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There+%F0%9F%91%8B;I'm+Ibrahim;Nice+to+meet+you+😊&center=true&size=30">
   </a>
 </h1>
    
 ###  <img src="/images/Developer.gif" alt="developer gif"  height="45px">  About Me:
 <p align="center">
-  Hi, I'm Ibrahim Salah, I am from EGYPT
+  Hi, I'm Ibrahim Salah, I'm from EGYPT
   <br>
   <br>
   👨‍🎓 I'm currently studying frontend diploma at Almadrasa
