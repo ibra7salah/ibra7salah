@@ -1,10 +1,9 @@
-![visitors badge](https://visitor-badge.laobi.icu/badge?page_id=Ibrahim0Salah.visitor-badge)
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Ibrahim0Salah.visitor-badge" alt="ibrahim0Salah"> 
 
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&lines=This+is+Ibrahim+Salah;Nice+to+meet+you+%F0%9F%91%8B)](https://git.io/typing-svg)       -->
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There;I+am+Ibrahim+Salah;Nice+to+meet+you+%F0%9F%91%8B&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There+%F0%9F%91%8B;I+am+Ibrahim+Salah;Nice+to+meet+you+😊&center=true&size=30">
   </a>
 </h1>
    
@@ -19,8 +18,8 @@
   <br>
   <br>
   📫 How to reach me 👇
-<p align="center"><a target="_blank" href="https://twitter.com/ibra7salah" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" width="120px" /></a>
-<a target="_blank" href="https://www.linkedin.com/in/ibrahim0salah" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" width="130px" /></a>
+<p align="center"><a target="_blank" href="https://www.linkedin.com/in/ibrahim0salah" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" width="130px" /></a>
+<a target="_blank" href="https://twitter.com/ibra7salah" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" width="120px" /></a>
 <a target="_blank" href="https://t.me/ibra7salah" style="display: inline-block;"><img src="https://img.shields.io/badge/telegram-logo?style=for-the-badge&logo=telegram&logoColor=white&color=blue" alt="telegram" width="130px" /></a></p>
 
 
