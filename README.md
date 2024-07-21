@@ -7,7 +7,7 @@
   </a>
 </h1>
    
-###  <img src="/images/Developer.gif" alt="developer gif"  height="45px">  About Me:
+<img src="/images/Developer.gif" alt="developer gif"  height="45px">  About Me:
 <p align="center">
   Hi, I'm Ibrahim Salah, I'm from EGYPT
   <br>
