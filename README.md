@@ -18,7 +18,7 @@
   <br>
   <br>
   📫 How to reach me 👇
-<p align="center"><a target="_blank" href="https://www.linkedin.com/in/ibrahim0salah" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" width="130px" /></a>
+<p align="center"><a target="_blank" href="https://www.linkedin.com/in/ibra7salah" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" width="130px" /></a>
 <a target="_blank" href="https://twitter.com/ibra7salah" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" width="120px" /></a>
 <a target="_blank" href="https://t.me/ibra7salah" style="display: inline-block;"><img src="https://img.shields.io/badge/telegram-logo?style=for-the-badge&logo=telegram&logoColor=white&color=blue" alt="telegram" width="130px" /></a></p>
 
