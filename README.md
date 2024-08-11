@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Ibrahim0Salah.visitor-badge" alt="ibrahim0Salah"> 
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Ibrahim0Salah.visitor-badge" alt="ibra7salah"> 
 
 
 <h1 align="center">
@@ -7,7 +7,7 @@
   </a>
 </h1>
    
-<img src="/images/Developer.gif" alt="developer gif"  height="45px">  About Me:
+About Me:
 <p align="center">
   Hi, I'm Ibrahim Salah, I'm from EGYPT
   <br>
