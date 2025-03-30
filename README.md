@@ -33,7 +33,7 @@
 
 ## Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,py,cpp,git,vscode&perline=7" width="600px" />
+  <img src="https://skillicons.dev/icons?i=html,css,py,cpp,git,vscode&perline=7" width="600px" />
 </p>
 
 ---
